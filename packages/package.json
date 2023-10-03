@@ -1,0 +1,24 @@
+{
+  "name": "create-react-hoon",
+  "version": "1.0.0",
+  "description": "create hoon-react-boilerplate",
+  "bin": {
+    "create-react-hoon": "./bin/generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h00ns/Hoon-React-BoilerPlate"
+  },
+  "author": {
+    "name": "Hoon",
+    "email": "01052405583a@gmail.com"
+  },
+  "private": false,
+  "keywords": [
+    "react",
+    "boilerplate"
+  ],
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
