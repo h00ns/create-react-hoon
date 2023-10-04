@@ -1,13 +1,13 @@
 {
   "name": "create-react-hoon",
   "version": "1.0.0",
-  "description": "create hoon-react-boilerplate",
+  "description": "create react hoon (boilerplate)",
   "bin": {
     "create-react-hoon": "./bin/generator.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/h00ns/Hoon-React-BoilerPlate"
+    "url": "https://github.com/h00ns/https://github.com/h00ns/create-react-hoon"
   },
   "author": {
     "name": "Hoon",
