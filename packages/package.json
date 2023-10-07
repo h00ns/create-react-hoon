@@ -1,6 +1,6 @@
 {
   "name": "create-react-hoon",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "create react hoon (boilerplate)",
   "bin": {
     "create-react-hoon": "./bin/generator.js"
