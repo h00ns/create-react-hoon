@@ -1,1 +1,1 @@
-# React + Vite
+# React Boilerplate hoon
