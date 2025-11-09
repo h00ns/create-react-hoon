@@ -4,10 +4,15 @@
 
 ```bash
 $ npx create-react-hoon [project-name]
+
+or
+
+$ npx create-react-hoon .
 ```
 
-- react
-- typescript
+- react 18
+- typescript 5.8.3
 - vite
-- ESLint
+- ESLint 9
 - Prettier
+- husky
